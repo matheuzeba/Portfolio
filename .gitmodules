@@ -1,3 +1,4 @@
 [submodule "todo-list-api"]
 	path = todo-list-api
 	url = git@github.com:matheuzeba/todo-list-api.git
+    branch = main
