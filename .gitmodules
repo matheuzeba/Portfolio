@@ -2,3 +2,12 @@
 	path = todo-list-api
 	url = git@github.com:matheuzeba/todo-list-api.git
     branch = main
+[submodule "front/Interactive-rating-component"]
+	path = front/Interactive-rating-component
+	url = https://github.com/matheuzeba/Interactive-rating-component
+[submodule "front/Single-price-grid-component"]
+	path = front/Single-price-grid-component
+	url = https://github.com/matheuzeba/Single-price-grid-component
+[submodule "front/Huddle-landing-page-with-a-single-introductory-section"]
+	path = front/Huddle-landing-page-with-a-single-introductory-section
+	url = https://github.com/matheuzeba/Huddle-landing-page-with-a-single-introductory-section
