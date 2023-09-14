@@ -11,3 +11,9 @@
 [submodule "front/Huddle-landing-page-with-a-single-introductory-section"]
 	path = front/Huddle-landing-page-with-a-single-introductory-section
 	url = https://github.com/matheuzeba/Huddle-landing-page-with-a-single-introductory-section
+[submodule "back/todo-list-api"]
+	path = back/todo-list-api
+	url = git@github.com:matheuzeba/todo-list-api.git
+[submodule "back/cubos-bank"]
+	path = back/cubos-bank
+	url = git@github.com:matheuzeba/cubos-bank.git
